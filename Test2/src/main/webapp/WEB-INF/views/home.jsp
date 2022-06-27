@@ -12,6 +12,8 @@
 	
 	git bash를 이용한 git add . 테스트2
 	
+	git bash commit + push 마지막 테스트
+	
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
