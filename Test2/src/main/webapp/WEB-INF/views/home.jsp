@@ -14,6 +14,9 @@
 	
 	git bash commit + push 마지막 테스트
 	
+	git pull final test
+	
+	
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
