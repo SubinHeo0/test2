@@ -19,6 +19,7 @@
 	branch test
 	brach subin으로 작성중
 	추가 작성
+	branch merge하고 나서 또 작성
 	
 	
 </h1>
