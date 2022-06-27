@@ -8,9 +8,7 @@
 <h1>
 	Hello world!  
 	
-	(이것도 수정)git bash를 이용한 git add . 테스트(수정)
-	
-	git bash를 이용한 git add . 테스트2
+	home2.jsp 추가 생성
 	
 </h1>
 
